@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>About - Techium</title>
+    <meta name="description" content="Techium is a digital agency">
+</head>
+<body>
+
+<header>
+    <div>
+        <div>
+            <a href="/">
+                <span>Techium</span>
+            </a>
+        </div>
+        <nav></nav>
+    </div>
+</header>
+
+<main>
+    <h1>About</h1>
+</main>
+
+<footer>
+    <div>
+        Footer
+    </div>
+</footer>
+
+</body>
+</html>
