@@ -1,0 +1,29 @@
+/* Behavior of the scroll to be as fluid as possible */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Body foreground color */
+body {
+  color: #161616;
+}
+
+/* Anchor elements */
+a {
+  color: #161616;
+}
+
+/* Visually hidden elements */
+.visually-hidden {
+  display: none;
+}
+
+/* Card category color */
+.card-category {
+  color: #D73953;
+}
+
+/* Section tagline color */
+.section-tagline {
+  color: #D73953;
+}
